@@ -11,11 +11,11 @@
 
 html,
 body {
+  background-image: url(./ash-edmonds-XZ0xN0hmpi4-unsplash.jpg);
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   transition: 0.5s;
-  background: #ffffff;
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
